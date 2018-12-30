@@ -1,0 +1,111 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 12px;
+    line-height: 150%;
+    color: #333;
+    background: #c9c9c5;
+  }
+
+  h2 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: rgb(95, 21, 143);
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 18px;
+    color: rgb(0, 128, 128);
+    margin: 20px;
+    text-align: left;}
+
+  h3 {
+    padding: 20px 0;
+    margin: 20px;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: rgb(0, 128, 128);
+    text-align: left;
+
+  }
+    
+
+  .container {
+    width: 70%;
+    float: center;
+    background: #ffffff;
+  
+  }
+
+  .container2 {
+    width: 70%;
+    float: center;
+    background: #ffffff;
+ 
+  }
+
+  .container-comp {background: #ffffff;
+
+  }
+  #container-image{
+    width: 100%;
+  }
+  
+  /* Selecting elements by ID */
+  #Summary,
+  #Max_Temp,
+  #Cloudiness,
+  #Humidity,
+  #Wind_Speed,
+  #Data,
+  { float: left
+  }
+  
+  #figure {position: left}
+
+  .row {
+    width: 100%;
+    padding: 10px 0;}
+
+  .visualizations
+  { float: left;
+    width: 70%;}
+
+  .card-text1 {
+    float: left;
+    padding: 10px 0;
+    width: 50%;
+  }
+  .card-text {
+    float: left;
+    padding: 10px 0;
+    width: 50%;
+  }
+  .col-lg-3 {
+    width: 25%;
+    background: #ffffff;
+  }
+
+  #vis_image {
+    float: left;
+    width: 70%;
+    margin: 20px;
+  }
+
+  #comp_vis {
+    float: center;
+    width: 25%;
+    margin: 100px;
+  }
+
+
+  
+
+
+
+  
+  
